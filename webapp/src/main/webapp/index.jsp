@@ -1,5 +1,5 @@
 <html>
-  <head><title>Sevenmentor</title></head>
+  <head><title>Sevenmentor2025</title></head>
   <body bgcolor=pink>
     <h1> Hello, Welcome to Seven Mentor Pune AWS 2024 Batch at 11AM!!! </h1>
   </body>
